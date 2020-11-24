@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Business Logic">
+      <UniqueIdentifier>{c1440dfa-db9a-4e43-8f4e-1750918249c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Business Logic\Utilities">
+      <UniqueIdentifier>{99332571-25a1-4f41-ae7c-a02473b31eef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Business Logic\Builders">
+      <UniqueIdentifier>{57e022d8-22d3-414d-bc56-763d707a6ae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Business Logic\Models">
+      <UniqueIdentifier>{d9e67bb1-1ea4-4886-879b-fbe2fe21ea92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Data Layer">
+      <UniqueIdentifier>{139c6f40-a68b-4ae4-a8d9-9b74ef26789c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Business Logic\Utilities\File Managers">
+      <UniqueIdentifier>{79e9bd0c-1f64-41f9-8dfa-ad062d1c0508}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Business Logic\Utilities\Math Libraries">
+      <UniqueIdentifier>{81d8737b-7862-4b30-9bd5-6a3c6bfb10ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0 - Source\main.cpp" />
+  </ItemGroup>
+</Project>
